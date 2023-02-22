@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Eugene 👋
 
+* 🌱 I’m currently learning <b>python</b>, <b>ML</b>, <b>web</b>
 <!--
 **garoldshea/garoldshea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
